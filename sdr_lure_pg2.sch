@@ -141,7 +141,7 @@ T 22000 17900 15 8 1 0 0 4 1
 T 19800 1300 5 10 1 1 0 0 1
 author=Eric Brombaugh
 T 15900 1600 5 10 1 1 0 0 1
-file=stm32f4_codec.sch
+file=sdr_lure_pg2.sch
 }
 T 15900 1300 9 10 1 0 0 0 1
 2
